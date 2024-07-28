@@ -1,6 +1,8 @@
 *.cmake linguist-vendored 
 CMakeLists.txt linguist-vendored
 *.cpp linguist-vendored
+*.hpp linguist-vendored
+*.cc linguist-vendored
 *.h linguist-vendored
 *.swift linguist-vendored
 *.dart linguist-language=Dart

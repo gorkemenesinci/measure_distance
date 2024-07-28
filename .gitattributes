@@ -4,3 +4,6 @@ CMakeLists.txt linguist-vendored
 *.h linguist-vendored
 *.swift linguist-vendored
 *.dart linguist-language=Dart
+*.md linguist-documentation
+*.json linguist-vendored
+*.lock linguist-vendored
